@@ -1,4 +1,4 @@
-# test
+# Vue Style Component Implemention Example 
 
 ## Project setup
 ```
